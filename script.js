@@ -45,5 +45,5 @@ function padZero(num){
 
 }
 
-setInterval(displayTime, 100)
+setInterval(displayTime, 1000)
 
