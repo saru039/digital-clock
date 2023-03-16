@@ -9,9 +9,9 @@ function displayTime(){
     hr = hr-12;
     ampm.innerHTML= 'PM';
     }
-  document.getElementById('hour').innerHTML= padZero(hr);
-  document.getElementById('min').innerHTML= min;
-  document.getElementById('sec').innerHTML= sec;
+  document.getElementById('hours').innerHTML= padZero(hr);
+  document.getElementById('mins').innerHTML= min;
+  document.getElementById('secs').innerHTML= sec;
 
   }
   function padZero(num){
