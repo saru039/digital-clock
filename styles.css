@@ -14,13 +14,13 @@
   font-size: 5rem;
   align-items: center;
   }
-.clock-container{
+#wrapper{
   border: 3px solid white;
   padding: 10px;
   }
 .container span{
   margin-left: 10px;
-  color: white;
+
   }
 #ampm{
   font-size: 3rem;
