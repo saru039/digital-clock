@@ -1,7 +1,4 @@
 
-## JS
-
-
 
 let ampm = document.getElementById('ampm')
 
